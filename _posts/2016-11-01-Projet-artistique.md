@@ -5,6 +5,7 @@ date: 2016-11-01
 categories: Projet T
 ---
 Projet T
+
 Voici un de mes projets sur la déambulation dans la ville de Toulouse.
 
 Au cours de mes voyages, j'ai eu l'opportunité de découvrir plusieurs villes et pris l'habitude de la déambulation pour découvrir mon environnement. Ces marches, sans arrière-pensée, me permettent de faire des rencontres, de m'approprier les lieux, sa mémoire, son architecture. J'ai pris l'habitude de photographier ces errances, de garder trace d'une mémoire citadine avec un regard qui m'est propre, qui devient une appropriation personnelle. 
