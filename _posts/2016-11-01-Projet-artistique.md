@@ -15,3 +15,5 @@ Trois thèmes se sont dégagés de cette déambulation : brisures, fermetures, o
 Une façon simple de présenter des images qui reflètent une vision de la ville, qui peuvent apporter une certaine narration grâce aux différentes prises de vue, une nostalgie aussi par le choix du noir et blanc et par les traces d'histoires et de mémoires qui si retrouvent.
 
 Tel Daido Moriyama, artiste japonais qui travaille la photographie avec une esthétique de l'instantané et du contraste, mes photos sont prises sans mise en scène, sans un grand travail de cadrage, c'est l'action d'un simple clic entre deux pas sur quelque chose qui attira mon regard. 
+
+<img src="/images/fulls/03.jpg" class="fit image"> <img src="/images/fulls/03.jpg" class="fit image"> <img src="/images/fulls/03.jpg" class="fit image">
