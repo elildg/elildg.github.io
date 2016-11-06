@@ -16,4 +16,4 @@ Une façon simple de présenter des images qui reflètent une vision de la ville
 
 Tel Daido Moriyama, artiste japonais qui travaille la photographie avec une esthétique de l'instantané et du contraste, mes photos sont prises sans mise en scène, sans un grand travail de cadrage, c'est l'action d'un simple clic entre deux pas sur quelque chose qui attira mon regard. 
 
-<img src="/images/fulls/p.4.jpg"width="48"> <img src="/images/fulls/p.3.jpg" class="fit image"> <img src="/images/fulls/p.11.jpg" class="fit image">
+<img src="/images/fulls/p.4.jpg" height"48"> <img src="/images/fulls/p.3.jpg" class="fit image"> <img src="/images/fulls/p.11.jpg" class="fit image">
