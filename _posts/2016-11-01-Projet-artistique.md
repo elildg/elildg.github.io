@@ -18,4 +18,4 @@ Tel Daido Moriyama, artiste japonais qui travaille la photographie avec une esth
 
 <img src="/images/fulls/p.4.jpg" class="fit image">  <img src="/images/fulls/p.3.jpg" class="fit image"> <img src="/images/fulls/p.11.jpg" class="fit image">
 
-<a href="/img/fulls/p.4.jpg" target="_blank"><img src="/img/fulls/p.4.jpg" width="350"></a>
+<img src="/img/fulls/p.4.jpg" width="350"></a>
