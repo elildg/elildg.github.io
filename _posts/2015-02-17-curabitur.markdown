@@ -1,10 +1,22 @@
 ---
 layout: post
+title: Déambulation à Barcelone
+date: 2016-11-07
+categories: Projet B
 ---
-<img src="/images/fulls/03.jpg" class="fit image"> Curabitur orci turpis, egestas placerat velit eget, dictum pellentesque ipsum. Suspendisse potenti. Suspendisse ac maximus arcu. Sed ut mattis ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum eleifend odio vitae varius aliquam. Quisque ac pretium nisi. Curabitur tempus urna ac ultrices commodo.
 
-Curabitur iaculis est at mattis mattis. Aliquam erat volutpat. Etiam vitae cursus quam. Nunc ultricies nunc non lorem fringilla cursus. Etiam dapibus libero ac turpis accumsan pulvinar. Sed auctor velit eget mi consequat bibendum. Aliquam interdum purus eget metus pretium ullamcorper.
+Dans la continuation des mes déambulations et de la volonté de garder trace, je suis partie à la découverte de la ville très connue de Barcelone.
 
-Pellentesque feugiat ex non ligula commodo, eget varius tortor pellentesque. Pellentesque id tortor felis. Cras fringilla ante eget orci laoreet, non consequat urna suscipit. Pellentesque luctus ac nulla vitae porttitor. Proin sed tortor quis magna efficitur efficitur a id leo. Donec efficitur augue et laoreet maximus. Ut semper egestas porttitor. Phasellus sagittis vulputate sem at laoreet.
+Enorme masse touristique, superbes monuments historiques, ville de la culture, Barcelone est ici revisitée et réappropriée par mon 
+regard et mes photogaphies.
 
-Sed lobortis urna ut mi volutpat, sit amet euismod sapien tincidunt. Nulla facilisi. Pellentesque quis tempus neque. Mauris dictum ac sapien nec congue. In hac habitasse platea dictumst. Duis id pellentesque nisl. Morbi eget massa magna.
+J'ai essayé, à partir de cette série, d'apercevoir le quotidien barcelonais, la beauté des structures ordinaires marquées par
+l'industrie et l'humanité.
+
+Je suis, à travers de ma démarche sur ces errances, influencée par les photographes de la première moitié du 20ième siècle à Paris tels
+que Eugène Atget ou Brassaï. 
+
+<img src="/images/fulls/b2.jpg" width="350">  <img src="/images/fulls/b3.jpg" width="350"> 
+<img src="/images/fulls/b4.jpg" width="350">  <img src="/images/fulls/b5.jpg" width="350">  
+<img src="/images/fulls/b6.jpg" width="350">  <img src="/images/fulls/b7.jpg" width="350">
+<img src="/images/fulls/b1.jpg" width="350">
