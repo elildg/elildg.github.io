@@ -5,6 +5,8 @@ date: 2016-11-07
 categories: Projet B
 ---
 
+<img src="/images/fulls/b5.jpg" width="350"> 
+
 Dans la continuation des mes déambulations et de la volonté de garder trace, je suis partie à la découverte de la ville très connue de Barcelone. Enorme masse touristique, superbes monuments historiques, ville de la culture, Barcelone est ici revisitée et réappropriée par mon regard et mes photogaphies.
 
 J'ai essayé, à partir de cette série, d'apercevoir le quotidien barcelonais, la beauté des structures ordinaires marquées par
@@ -13,5 +15,5 @@ que Eugène Atget ou Brassaï.
 
 <img src="/images/fulls/b7.jpg" width="350">  <img src="/images/fulls/b2.jpg" width="350"> 
 <img src="/images/fulls/b3.jpg" width="350">  <img src="/images/fulls/b4.jpg" width="350"> 
-<img src="/images/fulls/b5.jpg" width="350">  <img src="/images/fulls/b6.jpg" width="350"> <img src="/images/fulls/b1.jpg" width="350">
+<img src="/images/fulls/b5.jpg" width="350">  <img src="/images/fulls/b6.jpg" width="350"> 
 
