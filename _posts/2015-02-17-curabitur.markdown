@@ -15,5 +15,5 @@ que Eugène Atget ou Brassaï.
 
 <img src="/images/fulls/b7.jpg" width="350">  <img src="/images/fulls/b2.jpg" width="350"> 
 <img src="/images/fulls/b3.jpg" width="350">  <img src="/images/fulls/b4.jpg" width="350"> 
-<img src="/images/fulls/b5.jpg" width="350">  <img src="/images/fulls/b6.jpg" width="350"> 
+<img src="/images/fulls/b6.jpg" width="350"> 
 
