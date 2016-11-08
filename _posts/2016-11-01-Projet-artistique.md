@@ -4,7 +4,8 @@ title: Déambulation dans la ville
 date: 2016-11-05
 categories: Projet T
 ---
-Projet T
+
+<a href="/images/fulls/p.11.jpg" target="_blank"><img src="/images/fulls/p.11.jpg" width="350"></a>
 
 Voici un de mes projets qui me tient à coeur et qui porte sur la déambulation dans la ville de Toulouse.
 
@@ -16,4 +17,5 @@ Une façon simple de présenter des images qui reflètent une vision de la ville
 
 Tel Daido Moriyama, artiste japonais qui travaille la photographie avec une esthétique de l'instantané et du contraste, mes photos sont prises sans mise en scène, sans un grand travail de cadrage, c'est l'action d'un simple clic entre deux pas sur quelque chose qui attira mon regard. 
 
-<img src="/images/fulls/p.4.jpg" width="350"> <img src="/images/fulls/p.3.jpg" width="350"> <img src="/images/fulls/p.11.jpg" width="350">
+<a href="/images/fulls/p.4.jpg" target="_blank"><img src="/images/fulls/p.4.jpg" width="350"></a> 
+<a href="/images/fulls/p.3.jpg" target="_blank"><img src="/images/fulls/p.3.jpg" width="350"></a>
