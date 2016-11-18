@@ -15,3 +15,5 @@ de la sérégraphie, du crayon,du feutreou encore de la peinture acrylique.
 
 Dans la continuité du travail de la matière, une sculpture travaillée à la soudure représente le corps humain.
 
+<a href="/images/fulls/D1.jpg" target="_blank"><img src="/images/fulls/D1.jpg" width="350"></a> <a href="/images/fulls/D2.jpg" target="_blank"><img src="/images/fulls/D2.jpg" width="350"></a> <a href="/images/fulls/D3.jpg" target="_blank"><img src="/images/fulls/D3.jpg" width="350"></a> <a href="/images/fulls/D4.jpg" target="_blank"><img src="/images/fulls/D4.jpg" width="350"></a>
+<a href="/images/fulls/D5.jpg" target="_blank"><img src="/images/fulls/D5.jpg" width="350"></a> <a href="/images/fulls/D6.jpg" target="_blank"><img src="/images/fulls/D6.jpg" width="350"></a> <a href="/images/fulls/D7.jpg" target="_blank"><img src="/images/fulls/D7.jpg" width="350"></a> <a href="/images/fulls/D8.jpg" target="_blank"><img src="/images/fulls/D8.jpg" width="350"></a> <a href="/images/fulls/D9.jpg" target="_blank"><img src="/images/fulls/D9.jpg" width="350"></a>
